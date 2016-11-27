@@ -27,7 +27,7 @@
 if ( file_exists( dirname( __FILE__ ) . '/config-database.php' ) ) {
 	include( dirname( __FILE__ ) . '/config-database.php' );
 } else {
-	echo 'Config Database non presente!';
+	echo 'The file config database does not exist.';
 	exit;
 }
 
