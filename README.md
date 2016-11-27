@@ -1,5 +1,10 @@
 # Wordpress-starter-kit
+
 Starting to develop a more complete kit with wordpress and git
+
+## The goal
+
+The goal of Wordpress-starter-kit is to separate the wp-content folder of Wordpress to facilitate the use of git. Separating the wp-content folder can put in a repository only of our project files, plugin or theme without loading the Wordpress core every time.
 
 ## How to install
 
