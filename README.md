@@ -26,4 +26,4 @@ Starting to develop a more complete kit with wordpress and git
  - define('LOGGED_IN_SALT',   'Put your unique phrase here');
  - define('NONCE_SALT',       'Put your unique phrase here');
 5. Change the prefix of the table in wp-config.php, if you have changed during the installation of Wordpress
-    - $table__prefix  = 'wp_';
+    - $table_prefix  = 'wp_';
